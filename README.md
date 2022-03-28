@@ -1,2 +1,1 @@
-# fastapi-microservices
-Microservices Architecture with FastAPI, Docker and Nginx
+# Microservices Architecture with FastAPI, Docker and Nginx
