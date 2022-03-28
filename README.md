@@ -1,4 +1,4 @@
-# Microservices Architecture with FastAPI, Docker and Nginx
+# Microservices with FastAPI, Docker and Nginx
 
 ## Architecture Schema
 
